@@ -63,6 +63,10 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
+## 🔗 Integration with Hello Rails Back-End <a name="integration-with-hello-rails-back-end"></a>
+
+Here is the link to the [Hello rails back-End](https://github.com/nilab-khwaja/hello-rails-back-end)   repository.
+
 
 
 ### Prerequisites
