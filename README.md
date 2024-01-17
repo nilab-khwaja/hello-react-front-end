@@ -88,7 +88,7 @@ git clone https://github.com/nilab-khwaja/hello-react-front-end
 
 - Navigate to the location of the folder in your machine:
 
-**``you@your-Pc-name:~$ cd math-magicians``**
+**``you@your-Pc-name:~$ cd hello-react-front-end``**
 
 ### Usage
 
@@ -127,9 +127,7 @@ npm start .
 
 ## 👥 Authors <a name="authors"></a>
 
-> 
-
-👤 **Author1**
+👤 **Nilab Khwajazada**
 
 - GitHub: [@nilab-khwaja](https://github.com/githubhandle)
 - Twitter: [@nilab](https://twitter.com/twitterhandle)
